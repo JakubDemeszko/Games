@@ -1,1 +1,1 @@
-# Games
+In this folder you can find some easy games prepared in Python like paper, scissors and rock or simple raffle. In the future I am going to add some interface as I get more into the Python language. For now - it is just having a fun with the while / ifs, this way of practice is the best way to develop my skills.
